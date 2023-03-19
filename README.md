@@ -5,15 +5,6 @@
 
 ##
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&count_private=true&hide_border=true&title_color=00008b&icon_color=00008b&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&hide_border=true&title_color=0000cd&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CaioEgidio&bg_color=0d1117&color=fbf7fb&line=271b83&point=7a89d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div>
   <a> 🖥️Atualmente cursando Ciência da Computação </a>
 </div>
@@ -29,6 +20,14 @@
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&count_private=true&hide_border=true&title_color=00008b&icon_color=00008b&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&hide_border=true&title_color=0000cd&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 
   
