@@ -6,11 +6,11 @@
 ##
 
 <div>
-  <a> 🖥️Atualmente cursando Ciência da Computação </a>
+  <a> 🖥️ Currently studying Computer Science </a>
 </div>
 
 <div>
-  <a>📚 Estudando as seguintes Linguagens  </a>
+  <a>📚 Estudando as seguintes Linguagens </a>
 </div>
 
 <div style="display: inline_block"><br>
