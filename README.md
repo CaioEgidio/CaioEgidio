@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <a>📚 Estudando as seguintes Linguagens </a>
+  <a>📚 I am studying the following languages </a>
 </div>
 
 
