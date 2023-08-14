@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <a>📚 I am studying the following languages </a>
+  <a> languages </a>
 </div>
 
 
