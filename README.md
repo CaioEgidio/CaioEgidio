@@ -6,7 +6,7 @@
 ##
 
 <div>
-  <a> 🖥️ Currently studying Computer Science </a>
+  <a> </a>
 </div>
 
 <div>
