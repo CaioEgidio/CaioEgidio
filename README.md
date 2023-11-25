@@ -7,14 +7,13 @@ Olá! Eu sou o Caio 🖐️ Seja bem vindo!
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
 </div>
 
 
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&theme=tokyonight&layout=compact&size_weight=1&count_weight=0 )](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
