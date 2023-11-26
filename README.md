@@ -1,4 +1,4 @@
-<div font-size=30px>
+<div font-size=100px>
   Olá! Eu sou o Caio 👋 Seja bem vindo!
 </div>
 
