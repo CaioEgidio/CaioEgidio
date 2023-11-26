@@ -1,6 +1,5 @@
-<div font-size=100px>
-  Olá! Eu sou o Caio 👋 Seja bem vindo!
-</div>
+Olá! Eu sou o Caio 👋 Seja bem vindo!
+
 
 
 ##
