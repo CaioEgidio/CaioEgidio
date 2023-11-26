@@ -7,7 +7,7 @@
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&theme=one_dark_pro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
