@@ -2,12 +2,6 @@
 
 
 
-<div align="start">  
-<a href="https://www.instagram.com/caio_egidio/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:contatocaioegidio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href = "https://twitter.com/EgidioCaio13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
 
 
 <div>
@@ -16,6 +10,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+<div align="start">  
+<a href="https://www.instagram.com/caio_egidio/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:contatocaioegidio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href = "https://twitter.com/EgidioCaio13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
 
 ## Tecnologias
 
