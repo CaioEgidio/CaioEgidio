@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio 👋 Seja bem vindo!
 
 <div>
-    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CaioEgidio&show_icons=true&theme=react&count_private=true">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&theme=react">
     <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&theme=dracula">
 </div>
 
