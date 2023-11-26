@@ -1,12 +1,10 @@
 ## Olá! Eu sou o Caio 👋 Seja bem vindo!
 
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CaioEgidio&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&theme=dracula">
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioEgidio&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioEgidio&repo=convoychat" />
-</a>
 
 
 
