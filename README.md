@@ -5,8 +5,8 @@
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CaioEgidio&show_icons=true&theme=one_dark_pro&count_private=true">
-    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&theme=one_dark_pro">
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CaioEgidio&show_icons=true&theme=one_dark_pro&count_private=true">
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&theme=one_dark_pro">
 </div>
 
 
