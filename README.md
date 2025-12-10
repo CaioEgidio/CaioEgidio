@@ -3,8 +3,7 @@
  - 💻 Ciência da Computação 6° semestre
 
 <div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaioEgidio&show_icons=true&theme=catppuccin_mocha">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEgidio&layout=compact&theme=catppuccin_mocha">
+    
 </div>
 
 
