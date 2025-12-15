@@ -1,4 +1,4 @@
-## Olá! Eu sou o Caio 👋 Seja bem vindo!
+## Hi! I'm Caio 👋 Welcome!
 
 
 
