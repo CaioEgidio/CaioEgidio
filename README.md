@@ -1,20 +1,21 @@
 ## Hi! I'm Caio 👋 Welcome!
-🎓 Estudante de Ciência da Computação  
-💻 Apaixonado por tecnologia, programação e inovação  
-🚀 Sempre buscando evoluir e construir coisas úteis
+🎓 Computer Science Student
 
-🧠 O que eu curto
-- Desenvolvimento de software
-- Inteligência Artificial e Ciência de Dados
-- Resolver problemas na base do código
+💻 Passionate about technology, programming, and innovation
 
-Tecnologias
-- Python | Java
-- HTML | CSS | JavaScript
+🚀 Always seeking to evolve and build useful things
 
-Atualmente focado em aprender mais, criar projetos próprios e me preparar para o mercado.
+🧠 Interests
+- Software Development
+- Artificial Intelligence and Data Science
+- Solving problems using code
 
-🌐 Onde me encontrar
+Technologies
+- Python
+
+Currently focused on learning more, creating my own projects, and preparing for the job market.
+
+🌐 Where to find me
 - LinkedIn: https://www.linkedin.com/in/caio-egidio-7481aa281/
 - Instagram tech: https://www.instagram.com/egidio_dev?igsh=d21tOWFtNDl1NWdl&utm_source=qr
 
