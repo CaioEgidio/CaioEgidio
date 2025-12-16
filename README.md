@@ -1,5 +1,5 @@
 ## Hi! I'm Caio 👋 Welcome!
-🎓 Computer Science Student
+Computer Science Student
 
 Passionate about technology, programming, and innovation
 
