@@ -19,8 +19,6 @@ Atualmente focado em aprender mais, criar projetos próprios e me preparar para 
 - LinkedIn: https://www.linkedin.com/in/caio-egidio-7481aa281/
 - Instagram tech: https://www.instagram.com/egidio_dev?igsh=d21tOWFtNDl1NWdl&utm_source=qr
 
----
-*"Aprender, construir e evoluir. Todo dia."*
 
 
 
