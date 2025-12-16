@@ -1,11 +1,11 @@
 ## Hi! I'm Caio 👋 Welcome!
 🎓 Computer Science Student
 
-💻 Passionate about technology, programming, and innovation
+Passionate about technology, programming, and innovation
 
-🚀 Always seeking to evolve and build useful things
+Always seeking to evolve and build useful things
 
-🧠 Interests
+Interests
 - Software Development
 - Artificial Intelligence and Data Science
 - Solving problems using code
