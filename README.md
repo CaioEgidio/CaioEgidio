@@ -1,5 +1,6 @@
 ## Hi! I'm Caio 👋 Welcome!
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
